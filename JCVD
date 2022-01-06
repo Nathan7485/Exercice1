@@ -1,0 +1,132 @@
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document Ex1</title>
+    </head>
+    <body>
+        <a name="haut"></a>
+        <nav class="menu">
+            <ol>
+                <balise id="JCVD"><li><a href="#JCVD">JCVD</a></li></balise>
+                <balise id="Patrick Sébastien"><li><a href="#Patrick Sébastien">Patrick Sébastien</a></li></balise>
+                <balise id="Classement Coupe du monde 2018"><li><a href="#Classement Coupe du monde 2018">Classement Coupe du Monde 2018</a></li></balise>
+                <balise id="Tableau"><li><a href="#Tableau">Tableau</a></li></balise>
+            </ol>
+            <!-- Paragraphe JCVD + Photo de lui + texte de lui aussi :D-->
+            <div1>
+                <h1><a href="#JCVD">JCVD</a></h1>
+                <img src="C:\Users\Utilisateur\Desktop\JeanClaude\gettyimages-100961135-612x612.jpg" alt="Jean-Claude Van Damme" title="JCVD">
+                <p>Je me souviens en fait, je suis mon meilleur modèle car c'est juste une question d'awareness parce que spirituellement, on est tous ensemble, ok ? Ça respire le meuble de Provence, hein ? </p>
+                <p>You see, si vraiment tu veux te rappeler des souvenirs de ton perroquet, là, j'ai un chien en ce moment à côté de moi et je le caresse, et cette officialité peut vraiment retarder ce qui devrait devenir... Mais ça, c'est uniquement lié au spirit. </p>
+                <p>Quand tu fais le calcul, j'ai vraiment une grande mission car entre penser et dire, il y a un monde de différence parce que spirituellement, on est tous ensemble, ok ? Donc on n'est jamais seul spirituellement ! </p>
+            </div1>
+            <!-- Paragraphe Patrick Sébastien -->
+            <div2>
+                <a href="#haut">Retour en haut de la page</a>
+                <h1><a href="#Patrick Sébastien">Patrick Sébastien</a></h1>
+                <p>et c'est pour ça que ce soir encore une fois,</p>
+                <p>J'ai un cadeau pour toi</p>
+                <p>Te renvoie ce qu'on t'a appris</p>
+                <p>Pipo comprend tout c'qu'on dit,</p>
+                <p>Ce qu'on a de plus beau</p>
+                <p>C'est en haut</p>
+                <p>Les soirs sur la Garonne</p>
+                <p>Les garçon et les filles se tournent vers le fond</p>
+                <p>Les grand's opinions</p>
+                <p> </p>
+                <p>{refrain}</p>
+                <p>Quand personne t'aime</p>
+                <p>Je veux te dire combien je t'aime</p>
+                <p>En attendant elle se fait sauter, les lardons si ya qu'ça pour la distraire</p>
+                <p>Je te souhaite un Joyeux Anniversaire</p>
+                <p>En attendant elle se fait limer, les dents du d'vant pour avoir un sourire plus loup</p>
+                <p>On s'en fout</p>
+                <p> </p>
+                <p>Les grand's opinions</p>
+                <p>En attendant elle se fait monter, par la concierge les comissions</p>
+                <p>Les soirs sur la Garonne</p>
+                <p>Les garçon et les filles se tournent vers le fond</p>
+                <p>Avec les fesses à l'air</p>
+                <p>En attendant elle se fait sauter, les lardons si ya qu'ça pour la distraire</p>
+                <p>Le casse-bonbon qui parle trop</p>
+                <p>A la maison, à ton bureau</p>
+                <p>Et ceux qui la font pas</p>
+                <p> </p>
+                <p>{refrain}</p>
+                <p> </p>
+                <p>ils vont encore dirent que je ne pense qu'à ça,</p>
+                <p>c'est pas souvent que j'y pense pas....</p>
+                <p>Que le soir avec elle</p>
+                <p>C'est d'passer à la télé</p>
+                <p>Rien que des blessures</p>
+                <p>Pourvu que ça dure</p>
+                <p>et quand tu sera plus là....Denise</p>
+                <p>Denise ho ma denise,</p>
+                <p>Le bonheur à perpétuité</p>
+                <p> </p>
+                <a href="#haut">Retour en haut de la page</a>
+            </div2>
+            <!-- Logo fifa + 4 dernier match + lien externe vers site de la fifa -->
+            <div3>
+                <h1><a href="#Classement Coupe du monde 2018">Classement Coupe du monde 2018</a></h1>
+                <img src="C:\Users\Utilisateur\Desktop\JeanClaude\Array.jpg" alt="Logo coupe du monde dans date" title="Logo Coupe du monde">
+                <ul>
+                    <li>1.France</li>
+                    <li>2.Croatie</li>
+                    <li>3.Belgique</li>
+                    <li>4.Angleterre</li>
+                </ul>
+                <p>Lient vers le site de la FIFA: <a href="https://www.fifa.com/fr/tournaments/mens/worldcup/2018russia">Fifa</a></p>
+                <a href="#haut">Retour en haut de la page</a>
+            </div3>
+            <!-- Construction du tableau France/Belgique -->
+            <div4>
+                <h1><a href="#Tableau">Tableau</a></h1>
+                <table>
+                <head>
+                <style type="text/css">
+                    table
+                    {
+                        border-collapse: collapse;
+                    }
+                    td, th /* Bordure sur les td + th*/
+                    {
+                        border: 1px solid black;
+                    }
+                </style>
+                <thead>
+                    <tr>
+                        <th>Nom</th>
+                        <th>Age</th>
+                        <th>Pays</th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <td>Nom</td>
+                        <td>Age</td>
+                        <td>Pays</td>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    <tr>
+                        <td>Tartempion</td>
+                        <td>27</td>
+                        <td><img src="C:\Users\Utilisateur\Desktop\JeanClaude\drapeaufr.png" alt="Drapeau Francais" title="France"></td>
+                    </tr>
+                    <tr>
+                        <td>Vanderbruck</td>
+                        <td>32</td>
+                        <td><img src="C:\Users\Utilisateur\Desktop\JeanClaude\drapeaublg.png" alt="Drapeau Belge" title="Belgique"></td>
+                    </tr>
+                </tbody>
+                </head>
+                </table>
+                <a href="#haut">Retour en haut de la page</a>
+            </div4>
+        </nav>
+    </body>
+    </html>
